@@ -1,0 +1,12 @@
+{
+  "name": "grilling-v2",
+  "description": "The grilling-v2 skill",
+  "owner": { "name": "Futorio" },
+  "plugins": [
+    {
+      "name": "grilling-v2",
+      "source": "./",
+      "description": "Grill a plan in small rounds of questions, each grounded in the code it changes"
+    }
+  ]
+}

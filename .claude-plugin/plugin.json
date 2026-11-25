@@ -1,0 +1,9 @@
+{
+  "name": "grilling-v2",
+  "version": "1.0.0",
+  "description": "Grill a plan in small rounds of questions, each grounded in the code it changes",
+  "author": { "name": "Futorio" },
+  "license": "MIT",
+  "repository": "https://github.com/futorio/grilling-v2",
+  "keywords": ["grilling", "planning", "skills"]
+}
