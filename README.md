@@ -1,6 +1,6 @@
 # grilling-v2
 
-**Grilling that shows you the code.** An agent skill that stress-tests your plan a few questions at a time (3 by default). Every question comes with the problem, short options and a recommendation; when it touches existing code, also a diff or call tree of the recommended option.
+**Grilling that shows you more context.** An agent skill that stress-tests your plan a few questions at a time (3 by default). Every question comes with the problem, short options and a recommendation; when it touches existing code, also a diff or call tree of the recommended option.
 
 ## Why not Matt's `grilling`?
 
