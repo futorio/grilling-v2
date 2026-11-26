@@ -6,7 +6,7 @@
     {
       "name": "grilling-v2",
       "source": "./",
-      "description": "Grill a plan in small rounds of questions, each grounded in the code it changes"
+      "description": "Grill a plan in small rounds of questions, each with the context to answer it: why it matters, what changes, and the code it touches"
     }
   ]
 }

@@ -1,6 +1,6 @@
 ---
 name: grilling-v2
-description: "Grill the user about a plan in small rounds of questions (3 by default), each grounded in the code it changes. Use when the user asks for grilling-v2, or wants a plan that touches code grilled in small rounds."
+description: "Grill the user about a plan in small rounds of questions (3 by default), each with the context to answer it. Use when the user asks for grilling-v2, or wants a plan that touches code grilled in small rounds."
 license: MIT (see LICENSE.txt)
 metadata:
   version: "1.0.0"
